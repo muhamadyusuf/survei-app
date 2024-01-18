@@ -206,7 +206,7 @@
                                                 <!--begin::Row-->
                                                 <div class="row">
                                                     <!--begin::Col-->
-                                                    <div class="col-lg-3">
+                                                    <div class="col-sm-3">
                                                         <!--begin::Option-->
                                                         <input type="radio" class="btn-check" name="survei_emoney" value="gopay" id="gopay" required />
                                                         <label class="btn btn-outline btn-outline-dashed btn-active-light-primary p-2 d-flex align-items-center mb-10" for="gopay">
@@ -220,7 +220,7 @@
                                                     </div>
                                                     <!--end::Col-->
                                                     <!--begin::Col-->
-                                                    <div class="col-lg-3">
+                                                    <div class="col-sm-3">
                                                         <!--begin::Option-->
                                                         <input type="radio" class="btn-check" name="survei_emoney" value="ovo" id="ovo" required />
                                                         <label class="btn btn-outline btn-outline-dashed btn-active-light-primary p-2 d-flex align-items-center mb-10" for="ovo">
@@ -234,7 +234,7 @@
                                                     </div>
                                                     <!--end::Col-->
                                                     <!--begin::Col-->
-                                                    <div class="col-lg-3">
+                                                    <div class="col-sm-3">
                                                         <!--begin::Option-->
                                                         <input type="radio" class="btn-check" name="survei_emoney" value="dana" id="dana" required />
                                                         <label class="btn btn-outline btn-outline-dashed btn-active-light-primary p-2 d-flex align-items-center mb-10" for="dana">
@@ -248,7 +248,7 @@
                                                     </div>
                                                     <!--end::Col-->
                                                     <!--begin::Col-->
-                                                    <div class="col-lg-3">
+                                                    <div class="col-sm-3">
                                                         <!--begin::Option-->
                                                         <input type="radio" class="btn-check" name="survei_emoney" value="shopeepay" id="shopeepay" required />
                                                         <label class="btn btn-outline btn-outline-dashed btn-active-light-primary p-2 d-flex align-items-center mb-10" for="shopeepay">
@@ -363,7 +363,7 @@
 											<!--begin::Row-->
 											<div class="row">
 												<!--begin::Col-->
-												<div class="col-lg-4">
+												<div class="col-sm-4">
 													<!--begin::Option-->
 													<input type="radio" class="btn-check" name="survei_pilih" value="1" id="pilih_01" />
 													<label class="btn btn-outline btn-outline-dashed btn-active-light-primary p-2 d-flex align-items-center mb-10" for="pilih_01">
@@ -377,7 +377,7 @@
 												</div>
 												<!--end::Col-->
 												<!--begin::Col-->
-												<div class="col-lg-4">
+												<div class="col-sm-4">
 													<!--begin::Option-->
 													<input type="radio" class="btn-check" name="survei_pilih" value="2" id="pilih_02" />
 													<label class="btn btn-outline btn-outline-dashed btn-active-light-primary p-2 d-flex align-items-center mb-10" for="pilih_02">
@@ -391,7 +391,7 @@
 												</div>
 												<!--end::Col-->
 												<!--begin::Col-->
-												<div class="col-lg-4">
+												<div class="col-sm-4">
 													<!--begin::Option-->
 													<input type="radio" class="btn-check" name="survei_pilih" value="3" id="pilih_03" />
 													<label class="btn btn-outline btn-outline-dashed btn-active-light-primary p-2 d-flex align-items-center mb-10" for="pilih_03">
