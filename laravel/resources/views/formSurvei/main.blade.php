@@ -12,7 +12,7 @@
 		<meta property="og:title" content="Lembaga survei independen" />
 		<meta property="og:url" content="" />
 		<meta property="og:site_name" content="Lembaga Survei" />
-		<meta name="msapplication-navbutton-color" content="#016cea">
+		<meta name="theme-color" content="#016cea" />
         <meta name="csrf-token" content="{{ csrf_token() }}">
 		<link rel="shortcut icon" href="{{ asset('media/logos/favicon.ico') }}" />
 		<!--begin::Fonts(mandatory for all pages)-->
