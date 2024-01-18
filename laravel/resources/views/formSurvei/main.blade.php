@@ -458,6 +458,19 @@
 		<!--end::Javascript-->
 
         <script>
+
+			Swal.fire({
+				imageUrl: "{{ asset('media/app/hadiah.png') }}",
+				imageAlt: "Hadiah",
+				width: 600,
+				padding: "1em",
+				background: "transparent",
+				confirmButtonText: "Ok, got it!",
+				customClass: {
+					confirmButton: "btn btn-primary"
+				}
+			});
+
 			$.ajaxSetup({headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')}});
 			
             var element = document.querySelector("#kt_stepper_example_clickable");
